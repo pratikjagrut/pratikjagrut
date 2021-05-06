@@ -40,6 +40,9 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>][VScode]&ensp;
 <!--  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="30" height="30"/>&ensp; -->
 
+# My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://pratikjagrut.dev/
 [twitter]: https://twitter.com/pratikjagrut
