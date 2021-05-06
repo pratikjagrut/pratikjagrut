@@ -1,5 +1,8 @@
-### Hi there 👋
-### I'm Pratik, I'm an Engineer,  neophyte blogger and traveller
+[![Pratik's GitHub Banner](./img/ghbanner.png)](https://pratikjagrut.dev)
+
+---
+<!-- ### Hi there 👋 -->
+<!-- ### I'm Pratik, I'm an Engineer, neophyte blogger and traveller -->
 
 - ⚡ I build stuff, and I break stuff
 
@@ -18,6 +21,8 @@
     [![Website](https://img.shields.io/badge/website-pratikjagrut.dev-green)][website]
     [![Mail Badge](https://img.shields.io/badge/-pratikjagrut-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mailto]
     <br>
+
+    
 <!-- - 😄 Pronouns: ... -->
 
 <!-- - 🥅 My 2020 goal is to at least publish 50 blogs visit my blog at [pratikjagrut.dev]() -->
@@ -48,6 +53,14 @@
 - [Interface Part-1](https://pratikjagrut.dev/blog/golang/series/interface_part_1/)
 - [Structs part-2](https://pratikjagrut.dev/blog/golang/series/structs_part_2/)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- Github stats -->
+<!-- ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikjagrut&show_icons=true&theme=radical&hide=stars,contribs)
+
+<details>
+<summary></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikjagrut&show_icons=true&theme=radical&hide=stars,contribs">
+</details> -->
 
 [website]: https://pratikjagrut.dev/
 [twitter]: https://twitter.com/pratikjagrut
