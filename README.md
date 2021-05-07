@@ -47,7 +47,7 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Git aliases](https://pratikjagrut.dev/blog/git/aliases/)
+- [Git aliases](https://pratikjagrut.dev/blog/git/2021/aliases/)
 - [Golang](https://pratikjagrut.dev/blog/golang/series/contents/)
 - [Interface Part-2](https://pratikjagrut.dev/blog/golang/series/interface_part_2/)
 - [Interface Part-1](https://pratikjagrut.dev/blog/golang/series/interface_part_1/)
