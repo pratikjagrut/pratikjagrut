@@ -47,11 +47,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming pedestrian Github profile into dynamic portfolio](https://pratikjagrut.dev/blog/git/2021/githubprofile/)
 - [Git aliases](https://pratikjagrut.dev/blog/git/2021/aliases/)
 - [Golang](https://pratikjagrut.dev/blog/golang/series/contents/)
 - [Interface Part-2](https://pratikjagrut.dev/blog/golang/series/interface_part_2/)
 - [Interface Part-1](https://pratikjagrut.dev/blog/golang/series/interface_part_1/)
-- [Structs part-2](https://pratikjagrut.dev/blog/golang/series/structs_part_2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
