@@ -48,8 +48,8 @@
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Golang](https://pratikjagrut.dev/blog/golang/series/contents/)
-- [Error Handling (Part-1)](https://pratikjagrut.dev/blog/golang/series/error_part_1/)
-- [Error Handling (Part-2)](https://pratikjagrut.dev/blog/golang/series/error_part_2/)
+- [Error Handling &lpar;Part-1&rpar;](https://pratikjagrut.dev/blog/golang/series/error_part_1/)
+- [Error Handling &lpar;Part-2&rpar;](https://pratikjagrut.dev/blog/golang/series/error_part_2/)
 - [Transform pedestrian Github profile into dynamic portfolio](https://pratikjagrut.dev/blog/git/2021/githubprofile/)
 - [Git aliases](https://pratikjagrut.dev/blog/git/2021/aliases/)
 <!-- BLOG-POST-LIST:END -->
