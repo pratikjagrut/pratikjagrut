@@ -1,18 +1,24 @@
-[![Pratik's GitHub Banner](./img/ghbanner.png)](https://pratikjagrut.dev)
+[![Pratik's GitHub Banner](./img/ghbanner.png)](https://psj.codes)
 
 ---
 <!-- ### Hi there 👋 -->
-<!-- ### I'm Pratik, I'm an Engineer, neophyte blogger and traveller -->
+<!-- ### I'm Pratik, I'm an Engineer, neophyte blogger and traveler -->
 
-- ⚡ I build stuff, and I break stuff
+- 💻🚀 Community-Driven Software Engineer
 
-- 🔭 *I’m currently working on various opensource projects*
+- 🌍 Enthusiast of cloud-native development and open-source technologies, diving into the world of 💻
 
-- ❤️ *I love Linux*
+- 🚀 Proficient in Kubernetes, GoLang, Python, Docker, and more fascinating container technologies 🐳
 
-- 🌱 *I’m currently learning Kubernetes, Go and how to develop a strong online presence*
+- 🎓 CKA certified! 🎓📜
 
-- 💬 *Talk to me about Go, Git, Linux, Kubernetes, Blogging, Travelling, Keyboards*
+- 🎤 Passionate about technical evangelism, sharing knowledge and insights at prestigious events worldwide 🌍 Exhilarated by the stage! 🎙️
+
+- 📝 Pouring thoughts into engaging technical blogs 📝 at [psj.codes](https://psj.codes)
+
+- ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄 (checkout my instagram)[https://instagram.com/_pratikjagrut?igshid=OGQ5ZDc2ODk2ZA==]
+
+- 🤝 Let's connect and explore exciting opportunities together! 🔍😊
 
 - 📫 *Look me up @*
     
@@ -62,10 +68,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pratikjagrut&show_icons=true&theme=radical&hide=stars,contribs">
 </details> -->
 
-[website]: https://pratikjagrut.dev/
+[website]: https://psj.codes/
 [twitter]: https://twitter.com/pratikjagrut
 [linkedin]: https://www.linkedin.com/in/pratikjagrut
-[Golang]: https://golang.org/ 
+[Golang]: https://go.dev 
 [Python]: https://www.python.org/
 [Bash]: https://www.gnu.org/software/bash/
 [Git]: https://git-scm.com/
