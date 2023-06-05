@@ -14,7 +14,7 @@
 
 - 🎤 Passionate about technical evangelism, sharing knowledge and insights at prestigious events worldwide 🌍 Exhilarated by the stage! 🎙️
 
-- 📝 Pouring thoughts into engaging technical blogs 📝 at [![Blog](https://img.shields.io/badge/blog-psj.codes-orange)][website]
+- 📝 Pouring thoughts into engaging technical blogs 📝 [website]
 
 - ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄
 
