@@ -14,9 +14,9 @@
 
 - 🎤 Passionate about technical evangelism, sharing knowledge and insights at prestigious events worldwide 🌍 Exhilarated by the stage! 🎙️
 
-- 📝 Pouring thoughts into engaging technical blogs 📝 at [psj.codes](https://psj.codes)
+- 📝 Pouring thoughts into engaging technical blogs 📝 at [![Blog](https://img.shields.io/badge/blog-psj.codes-orange)][website]
 
-- ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄 (checkout my instagram)[https://instagram.com/_pratikjagrut?igshid=OGQ5ZDc2ODk2ZA==]
+- ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄
 
 - 🤝 Let's connect and explore exciting opportunities together! 🔍😊
 
@@ -24,7 +24,7 @@
     
     [![Twitter Badge](https://img.shields.io/badge/-@pratikjagrut-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pratikjagrut)][twitter]
     [![Linkedin Badge](https://img.shields.io/badge/-pratikjagrut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-    [![Website](https://img.shields.io/badge/website-pratikjagrut.dev-green)][website]
+    [![Blog](https://img.shields.io/badge/blog-psj.codes-orange)][website]
     [![Mail Badge](https://img.shields.io/badge/-pratikjagrut-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mailto]
     <br>
 
