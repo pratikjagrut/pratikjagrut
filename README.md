@@ -53,11 +53,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Golang](https://pratikjagrut.dev/blog/golang/series/contents/)
-- [Error Handling &lpar;Part-1&rpar;](https://pratikjagrut.dev/blog/golang/series/error_part_1/)
-- [Error Handling &lpar;Part-2&rpar;](https://pratikjagrut.dev/blog/golang/series/error_part_2/)
-- [Transform pedestrian Github profile into dynamic portfolio](https://pratikjagrut.dev/blog/git/2021/githubprofile/)
-- [Git aliases](https://pratikjagrut.dev/blog/git/2021/aliases/)
+- [Concurrency in Go &lpar;Part-3&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-3-sync-package-primitives)
+- [Concurrency in Go &lpar;Part-2&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-2-sync-package-primitives)
+- [Concurrency in Go &lpar;Part-1&rpar;: Goroutines, Channels and Select](https://psj.codes/concurrency-in-go-part-1-goroutines-channels-and-select)
+- [Git Aliases](https://psj.codes/git-aliases)
+- [Error Handling in Go &lpar;Part-2&rpar;](https://psj.codes/error-handling-in-go-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
