@@ -53,11 +53,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Go GraphQL Go!!!](https://pratikjagrut.hashnode.dev/go-graphql-go)
-- [Concurrency in Go &lpar;Part-3&rpar;: sync package primitives](https://pratikjagrut.hashnode.dev/concurrency-in-go-part-3-sync-package-primitives)
-- [Concurrency in Go &lpar;Part-2&rpar;: sync package primitives](https://pratikjagrut.hashnode.dev/concurrency-in-go-part-2-sync-package-primitives)
-- [Concurrency in Go &lpar;Part-1&rpar;: Goroutines, Channels and Select](https://pratikjagrut.hashnode.dev/concurrency-in-go-part-1-goroutines-channels-and-select)
-- [Git Aliases](https://pratikjagrut.hashnode.dev/git-aliases)
+- [Go GraphQL Go!!!](https://psj.codes/go-graphql-go)
+- [Concurrency in Go &lpar;Part-3&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-3-sync-package-primitives)
+- [Concurrency in Go &lpar;Part-2&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-2-sync-package-primitives)
+- [Concurrency in Go &lpar;Part-1&rpar;: Goroutines, Channels and Select](https://psj.codes/concurrency-in-go-part-1-goroutines-channels-and-select)
+- [Git Aliases](https://psj.codes/git-aliases)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
