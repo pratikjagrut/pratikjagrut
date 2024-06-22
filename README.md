@@ -53,11 +53,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Kubernetes](https://psj.codes/introduction-to-kubernetes)
 - [Introduction to Container Orchestration](https://psj.codes/introduction-to-container-orchestration)
 - [Go GraphQL Go!!!](https://psj.codes/go-graphql-go)
 - [Concurrency in Go &lpar;Part-3&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-3-sync-package-primitives)
 - [Concurrency in Go &lpar;Part-2&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-2-sync-package-primitives)
-- [Concurrency in Go &lpar;Part-1&rpar;: Goroutines, Channels and Select](https://psj.codes/concurrency-in-go-part-1-goroutines-channels-and-select)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
