@@ -53,11 +53,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Pod 101](https://psj.codes/kubernetes-pod-101)
 - [Creating a Kubernetes Cluster with Kubeadm and Containerd: A Comprehensive Step-by-Step Guide](https://psj.codes/creating-a-kubernetes-cluster-with-kubeadm-and-containerd-a-comprehensive-step-by-step-guide)
 - [Introduction to Kubernetes](https://psj.codes/introduction-to-kubernetes)
 - [Introduction to Container Orchestration](https://psj.codes/introduction-to-container-orchestration)
 - [Go GraphQL Go!!!](https://psj.codes/go-graphql-go)
-- [Concurrency in Go &lpar;Part-3&rpar;: sync package primitives](https://psj.codes/concurrency-in-go-part-3-sync-package-primitives)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
