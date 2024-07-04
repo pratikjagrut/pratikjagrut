@@ -31,7 +31,7 @@
 
 ### Languages and Tools in my Arsenal:
 
-[<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="30" height="30"/>][Golang]&ensp;
+[<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="60" height="40"/>][Golang]&ensp;
 [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30"/>][Python]&ensp;
 [<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="30" height="30"/>][Bash]&ensp;
 [<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="k8s" width="30" height="30"/>][Kubernetes]&ensp;
