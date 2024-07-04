@@ -2,7 +2,7 @@
 
 ---
 <!-- ### Hi there 👋 -->
-<!-- ### I'm Pratik, I'm an Engineer, neophyte blogger and traveler -->
+<!-- ### I'm Pratik, I'm an Engineer, neophyte blogger and traveller -->
 
 - 💻🚀 Community-Driven Software Engineer
 
@@ -16,7 +16,7 @@
 
 - 📝 Pouring thoughts into engaging technical blogs 📝
 
-- ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄
+- ✈️ Enjoys travelling and seeking thrilling adventures 🗺️🌄
 
 - 🤝 Let's connect and explore exciting opportunities together! 🔍😊
 
@@ -28,18 +28,10 @@
     [![Mail Badge](https://img.shields.io/badge/-pratikjagrut-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mailto]
     <br>
 
-    
-<!-- - 😄 Pronouns: ... -->
-
-<!-- - 🥅 My 2020 goal is to at least publish 50 blogs visit my blog at [pratikjagrut.dev]() -->
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-
-<!-- - 🤔 I’m looking for help with ... -->
 
 ### Languages and Tools in my Arsenal:
 
-[<img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Golang" height="20"/>][Golang]&ensp;
+[<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" height="20"/>][Golang]&ensp;
 [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30"/>][Python]&ensp;
 [<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="30" height="30"/>][Bash]&ensp;
 [<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="k8s" width="30" height="30"/>][Kubernetes]&ensp;
