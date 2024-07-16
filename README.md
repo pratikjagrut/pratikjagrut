@@ -45,11 +45,11 @@
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: Deployments &lpar;Part-1&rpar;](https://psj.codes/kubernetes-deployments-part-1)
 - [Kubernetes: ReplicaSet](https://psj.codes/kubernetes-replicaset)
 - [Kubernetes Pod 101](https://psj.codes/kubernetes-pod-101)
 - [Creating a Kubernetes Cluster with Kubeadm and Containerd: A Comprehensive Step-by-Step Guide](https://psj.codes/creating-a-kubernetes-cluster-with-kubeadm-and-containerd-a-comprehensive-step-by-step-guide)
 - [Introduction to Kubernetes](https://psj.codes/introduction-to-kubernetes)
-- [Introduction to Container Orchestration](https://psj.codes/introduction-to-container-orchestration)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Github stats -->
