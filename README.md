@@ -10,13 +10,13 @@
 
 - 🚀 Proficient in Kubernetes, GoLang, Python, Docker, and more fascinating container technologies 🐳
 
-- 🎓 CKA certified! 🎓📜
+- 🎓 CKA and CKS certified! 🎓📜
 
 - 🎤 Passionate about technical evangelism, sharing knowledge and insights at prestigious events worldwide 🌍 Exhilarated by the stage! 🎙️
 
 - 📝 Pouring thoughts into engaging technical blogs 📝
 
-- ✈️ Enjoys travelling and seeking thrilling adventures 🗺️🌄
+- ✈️ Enjoys traveling and seeking thrilling adventures 🗺️🌄
 
 - 🤝 Let's connect and explore exciting opportunities together! 🔍😊
 
